@@ -1,0 +1,28 @@
+{
+  "roomId": "X2SC4",
+  "hostId": "MyrhAdk_6Bh2ecu6AAAA",
+  "started": false,
+  "winner": null,
+  "direction": 1,
+  "turnIndex": 0,
+  "activeColor": null,
+  "players": [
+    {
+      "id": "MyrhAdk_6Bh2ecu6AAAA",
+      "name": "f",
+      "isHost": true,
+      "unoCalled": false,
+      "handCount": 0,
+      "hand": []
+    }
+  ],
+  "deckCount": 0,
+  "deck": [],
+  "discard": [],
+  "logs": [
+    {
+      "t": "2026-10-03T08:38:56.615Z",
+      "msg": "f created the room"
+    }
+  ]
+}
